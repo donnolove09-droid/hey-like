@@ -1,0 +1,10 @@
+Flask[async]
+gunicorn
+requests
+aiohttp
+googleapis-common-protos
+pycryptodome
+protobuf
+Werkzeug
+PyJWT
+urllib3
